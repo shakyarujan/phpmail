@@ -1,2 +1,2 @@
 # phpmail
-test
+Simple webmail implemented in PHP.
